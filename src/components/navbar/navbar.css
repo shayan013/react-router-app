@@ -1,0 +1,18 @@
+.text {
+  margin-top: -14px !important;
+
+  border: none !important;
+  margin-left: -10px;
+}
+.search-icon {
+  font-size: 2rem;
+}
+
+.icons-group span {
+  font-size: 2rem;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
